@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hyunjung Lee</h1>
 
-<h10 align="center">"I am an AI engineer specializing in developing and implementing advanced artificial intelligence solutions. 
+<h8 align="center">"I am an AI engineer specializing in developing and implementing advanced artificial intelligence solutions. 
 With expertise in machine learning, data analysis, and programming languages, I excel at designing advanced algorithms and leveraging AI technologies. 
 My passion lies in harnessing the power of AI to drive technological innovation."
 </h10>
