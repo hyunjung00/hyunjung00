@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hyunjung Lee</h1>
 
-<h8 align="center">"I am an AI engineer specializing in developing and implementing advanced artificial intelligence solutions"
+<h8 align="center">
 </h10>
 
 
